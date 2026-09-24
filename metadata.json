@@ -1,0 +1,6 @@
+{
+  "name": "همس القلوب - دردشة ورومانسية الأزواج",
+  "description": "منصة محادثة وفضفضة خاصة بين الأصدقاء المقربين لتبادل الأحاديث الودية، الضحك، والرسائل الصادقة بأعلى درجات الخصوصية والأمان.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
